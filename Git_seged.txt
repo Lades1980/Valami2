@@ -1,0 +1,13 @@
+Git
+Laptopon a mappában 
+git init
+git add .
+git commit -m "Szöveg"
+git remote add origin https://github.com/
+
+git status
+git remote
+git remote -v
+
+git push origin master     masterba beteszi
+git pull origin master     masterbol leszedi
