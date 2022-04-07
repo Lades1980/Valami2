@@ -1,6 +1,8 @@
 Github 
 ez valami
+Ezt ide beszurtam
 modosítottam
-hello
+Törlés volt a hello
 Ez is még valami itt
+Vadonat új sor
 
